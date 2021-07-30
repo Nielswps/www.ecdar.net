@@ -6,6 +6,13 @@ menu: "main"
 weight: 1
 ---
 
-# Hello World
+# Ecdar
 
-ECDAR
+Ecdar is an abbreviation of Environment for Compositional Design and Analysis of Real Time Systems
+
+The original ecdar (version 0.10 can be found here http://ecdar.cs.aau.dk)
+
+Information about the current version under development can be found here http://ulrik.blog.aau.dk/ecdar/
+
+
+
