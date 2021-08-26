@@ -2,11 +2,10 @@
 title: "ECDAR"
 date: 2019-12-11T14:45:55+02:00
 draft: false
-menu: "main"
-weight: 1
+#menu: "main"
+#weight: 1
+showpagemeta: false
 ---
-
-# Ecdar
 
 Ecdar is an abbreviation of Environment for Compositional Design and Analysis of Real Time Systems
 
