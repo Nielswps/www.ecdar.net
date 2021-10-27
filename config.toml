@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "ECDAR"
 
 theme = "hyde-hyde"
+
+[params]
+    authorimage = "/img/ecdarLogo.png"
