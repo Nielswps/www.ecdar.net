@@ -8,4 +8,6 @@ showpagemeta: false
 ---
 
 
-About the ECDAR team: 
+The current development team of Ecdar consists of:
+
+
