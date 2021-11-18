@@ -32,4 +32,3 @@ As of the spring of 2021 this code is being worked on to make it feature complet
 <h2>Reveaal - 2020</h2>
 An implementation in Rust of the same features as the j-Ecdar engine. This code base also uses the <a href="https://github.com/UPPAALModelChecker/UDBM">UDBM library</a>. (<a href="https://github.com/Ecdar/Reveaal">Github link</a>) Based on the tool <a href="http://ulrik.blog.aau.dk/hmk/">HMKaal</a> that was also written in Rust, but used a different semantics of the models.
 
-<a href="http://ulrik.blog.aau.dk/ecdar/ecdar-architecture/">The intended architecture of the Ecdar tools can be found here. </a>
