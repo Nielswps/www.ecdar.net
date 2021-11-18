@@ -1,3 +1,12 @@
+---
+title: "History"
+date: 2021-11-18
+draft: false
+menu: "main"
+weight: 70
+showpagemeta: false
+---
+
 This is a short outline of the history of the development of the different parts of the Ecdar tools.
 
 Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
