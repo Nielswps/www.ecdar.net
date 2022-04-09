@@ -1,15 +1,13 @@
 ---
 title: "Architecture"
-date: 2021-11-18
+date: 2022-04-09
 draft: false
 menu: "main"
 weight: 80
 showpagemeta: false
 ---
 
-This page describes the intended Ecdar tool architecture as of spring 2021.
-
-<a href="http://ulrik.blog.aau.dk/ecdar/ecdar-history/">The history of the tools can be seen here.</a>
+This page describes the Ecdar tool architecture as of spring 2022.
 
 <a href="../ArchOverview.png"><img class="alignnone wp-image-448" src="../ArchOverview.png" alt="" width="496" height="357" /></a>
 
