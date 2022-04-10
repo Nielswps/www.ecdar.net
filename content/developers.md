@@ -13,3 +13,9 @@ Developers that have contributed to the project over time
 <h2>H-Uppaal GUI</h2>
 
 
+<h2>j-Ecdar</h2>
+Florian Lorber
+
+
+
+
