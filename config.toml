@@ -5,4 +5,4 @@ title = "ECDAR"
 theme = "hyde-hyde"
 
 [params]
-    authorimage = "www.ecdar.net/img/ecdar_in_circle.png"
+    authorimage = "/img/ecdar_in_circle.png"
