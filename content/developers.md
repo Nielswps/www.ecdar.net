@@ -9,12 +9,9 @@ showpagemeta: false
 
 Developers that have contributed to the project over time
 
-
-<h2>H-Uppaal GUI</h2>
-
-
-<h2>j-Ecdar</h2>
-Florian Lorber
+  * [Florian Lorber](https://github.com/orgs/Ecdar/people/florber)
+  * [Ulrik Nyman](https://github.com/orgs/Ecdar/people/ulriknyman)
+  * [Niels Frederik Sinding Vistisen](https://github.com/orgs/Ecdar/people/Nielswps)
 
 
 
