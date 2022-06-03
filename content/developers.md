@@ -22,7 +22,7 @@ First version og j-Ecdar: [Master thesis 2018-2019](https://projekter.aau.dk/pro
   * [Napalys Klicius](https://www.linkedin.com/in/napalys-klicius/)
   * [Cristina Ioana Simionescu](https://www.linkedin.com/in/cristinasim/) 
 
-First version of the Ecdar GUI (based on H-Uppaal) [Pre-Master thesis 2017](https://homes.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-GUI.pdf) [Master thesis 2018 (Simulator)](https://homes.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-VisualSimulator.pdf) [Master thesis 2018 (Fault localisation) (http://eptcs.web.cse.unsw.edu.au/paper.cgi?GandALF18.11)
+First version of the Ecdar GUI (based on H-Uppaal) [Pre-Master thesis 2017](https://homes.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-GUI.pdf) [Master thesis 2018 (Simulator)](https://homes.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-VisualSimulator.pdf) [Master thesis 2018 (Fault localisation)](http://eptcs.web.cse.unsw.edu.au/paper.cgi?GandALF18.11)
 
   * [Casper Møller Bartholomæussen](https://www.linkedin.com/in/caspermb/)
   * [Tobias Rosenkrantz Gundersen](https://www.linkedin.com/in/tobiasgundersen/)
