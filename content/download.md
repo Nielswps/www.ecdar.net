@@ -11,7 +11,7 @@ This page contains links to download versions of Ecdar.
 
 Newest version:
 
-[Ecdar-2.3.0-beta.zip](http://people.cs.aau.dk/~ulrik/ecdar/releases/ecdar-2.3.0-beta.zip)
+[Ecdar-2.3.0-beta.zip](http://people.cs.aau.dk/~ulrik/ecdar/releases/ecdar-2.3.0-beta.zip) 2022-06-06
 
 * Very early beta version of the new architecture
 * Only contains the Reveaal engine
@@ -19,7 +19,7 @@ Newest version:
 
 Old versions:
 
-[Ecdar-2.2.zip](http://people.cs.aau.dk/~ulrik/ecdar/releases/Ecdar-2.2.zip)
+[Ecdar-2.2.zip](http://people.cs.aau.dk/~ulrik/ecdar/releases/Ecdar-2.2.zip) 2018-06-14
 
 * Version intended to work with the old Tiga-0.17 engine.
 
