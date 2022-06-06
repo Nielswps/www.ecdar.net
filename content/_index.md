@@ -7,11 +7,12 @@ weight: 1
 showpagemeta: false
 ---
 
-Ecdar is an abbreviation of Environment for Compositional Design and Analysis of Real Time Systems
+Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
 
-The original ecdar (version 0.10 can be found here http://ecdar.cs.aau.dk)
+Currently the communication around Ecdar and its development happens on Discord: 
+[Ecdar discord community invite link](https://discord.gg/rKkUd9d36m)
 
-Information about the current version under development can be found here http://ulrik.blog.aau.dk/ecdar/
+A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk/ecdar/](http://ulrik.blog.aau.dk/ecdar/)
 
 
 
