@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ECDAR</title><link>/</link><description>Recent content on ECDAR</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 14:45:55 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Download</title><link>/download/</link><pubDate>Wed, 11 Dec 2019 14:45:55 +0200</pubDate><guid>/download/</guid><description>This page contains links to download versions of Ecdar.
 Newest version:
-[]
-Old versions:</description></item><item><title>Architecture</title><link>/architecture/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>/architecture/</guid><description>This page describes the Ecdar tool architecture as of spring 2022.
+Ecdar-2.3.0-beta.zip
+Very early beta version of the new architecture Only contains the Reveaal engine Can check refinement Old versions:
+Ecdar-2.2.zip
+Version intended to work with the old Tiga-0.17 engine.</description></item><item><title>Architecture</title><link>/architecture/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>/architecture/</guid><description>This page describes the Ecdar tool architecture as of spring 2022.
 The general design intent of having two verification engines, is that it should make the whole platform more reliable. j-Ecdar The intention of j-Ecdar is to be a form of reference implementation, where no effort is put into optimizing the code for speed, but rather for Correctness Readability Reveaal The intention of the Reveaal engine is to get a verification engine that is fast and parallelizable.</description></item><item><title>Developers</title><link>/developers/</link><pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate><guid>/developers/</guid><description>Developers that have contributed to the project over time
 Florian Lorber Ulrik Nyman Niels Frederik Sinding Vistisen Nicklas Hjortshøj Hugøy Sebastian Lund Thorulf Neustrup First version og j-Ecdar: Master thesis 2018-2019
 Andrej Kiviriga Napalys Klicius Cristina Ioana Simionescu First version of the Ecdar GUI (based on H-Uppaal) Pre-Master thesis 2017 Master thesis 2018 (Simulator) Master thesis 2018 (Fault localisation)
