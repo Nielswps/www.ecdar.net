@@ -9,7 +9,6 @@ showpagemeta: false
 
 This is a short outline of the history of the development of the different parts of the Ecdar tools.
 
-Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
 <h2>Uppaal TIGA versions  - 2010 - 2013</h2>
 <a href="http://people.cs.aau.dk/~adavid/ecdar/">The first version of the tool (0.6 to 0.10)</a>  was based on the GUI and verification engine of <a href="http://people.cs.aau.dk/~adavid/tiga/">Uppaal TIGA</a>. Efter this it was released as part of Uppaal TIGA in version 0.17.
 
