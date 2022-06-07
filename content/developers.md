@@ -17,7 +17,7 @@ Developers that have contributed to the project over time
   * [Ulrik Nyman](https://github.com/ulriknyman)
   * [Niels Frederik Sinding Vistisen](https://github.com/Nielswps)
 
-First version og j-Ecdar: [Master thesis 2018-2019](https://projekter.aau.dk/projekter/da/studentthesis/jecdar-02--model-checking-refinement-relations-for-timed-io-automata(ac3fdc2b-a7c5-45a4-b63c-2ad817692ea0).html)
+First version of j-Ecdar: [Master thesis 2018-2019](https://projekter.aau.dk/projekter/da/studentthesis/jecdar-02--model-checking-refinement-relations-for-timed-io-automata(ac3fdc2b-a7c5-45a4-b63c-2ad817692ea0).html)
 
   * [Andrej Kiviriga](https://www.linkedin.com/in/andrej-kiviriga-5981631b6/)
   * [Napalys Klicius](https://www.linkedin.com/in/napalys-klicius/)
