@@ -9,12 +9,13 @@ showpagemeta: false
 
 Developers that have contributed to the project over time
 
-  * [Florian Lorber](https://github.com/florber)
-  * [Ulrik Nyman](https://github.com/ulriknyman)
-  * [Niels Frederik Sinding Vistisen](https://github.com/Nielswps)
+  * [Martijn Angelo Goorden](https://github.com/magoorden)
   * [Nicklas Hjortshøj Hugøy](https://github.com/NicklasHugoy)
+  * [Florian Lorber](https://github.com/florber)
   * [Sebastian Lund](https://github.com/seblund)
   * [Thorulf Neustrup](https://github.com/thorulf4)
+  * [Ulrik Nyman](https://github.com/ulriknyman)
+  * [Niels Frederik Sinding Vistisen](https://github.com/Nielswps)
 
 First version og j-Ecdar: [Master thesis 2018-2019](https://projekter.aau.dk/projekter/da/studentthesis/jecdar-02--model-checking-refinement-relations-for-timed-io-automata(ac3fdc2b-a7c5-45a4-b63c-2ad817692ea0).html)
 
