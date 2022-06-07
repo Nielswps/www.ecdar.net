@@ -16,4 +16,4 @@ Currently the communication around Ecdar and its development happens on Discord:
 
 A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk/ecdar/](http://ulrik.blog.aau.dk/ecdar/)
 
-<img src="/img/EcdarScreenshot4split.png" alt="Screenshot of Ecdar 2.3.0-beta" style="height: 500px; float:right" title:'Screenshot of Ecdar 2.3.0-beta' "/>
+<img src="/img/EcdarScreenshot4split.png" alt="Screenshot of Ecdar 2.3.0-beta" style="height: 500px; float:right"; title:'Screenshot of Ecdar 2.3.0-beta'; "/>
