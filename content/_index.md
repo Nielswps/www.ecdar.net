@@ -9,9 +9,12 @@ showpagemeta: false
 
 Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
 
+<img src="/img/RefinementCheatFigure.png" alt="Figure showing direction of implications following from S refining T" style="height: 200px; width:200px; float:right"/>
+
 Currently the communication around Ecdar and its development happens on Discord: 
 [Ecdar discord community invite link](https://discord.gg/rKkUd9d36m)
 
 A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk/ecdar/](http://ulrik.blog.aau.dk/ecdar/)
 
-<img src="/img/RefinementCheatFigure.png" alt="Figure showing direction of implications following from S refining T" style="height: 200px; width:200px; align:center"/>
+
+<img src="/img/RefinementCheatFigure.png" alt="Figure showing direction of implications following from S refining T" style="height: 200px; width:200px; float:right"/>
