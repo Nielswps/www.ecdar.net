@@ -17,4 +17,4 @@ Currently the communication around Ecdar and its development happens on Discord:
 A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk/ecdar/](http://ulrik.blog.aau.dk/ecdar/)
 
 
-<img src="/img/RefinementCheatFigure.png" alt="Figure showing direction of implications following from S refining T" style="height: 200px; width:200px; float:right"/>
+<img src="/img/EcdarScreenshot4split.png" alt="Screenshot of Ecdar 2.3.0-beta" style="height: 400px; float:right"/>
