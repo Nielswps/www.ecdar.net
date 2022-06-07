@@ -11,11 +11,16 @@ showpagemeta: false
 
 Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
 
+#h2 Development 
 [The project is open source and hosted on GitHub](https://github.com/Ecdar/)
 
+#h2 Community 
 Currently the communication around Ecdar and its development happens on Discord: 
 [Ecdar discord community invite link](https://discord.gg/rKkUd9d36m)
 
+#h2 Research
 A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk/ecdar/](http://ulrik.blog.aau.dk/ecdar/)
+
+#h2 Screenshot
 
 <img src="/img/EcdarScreenshot4split.png" alt="Screenshot of Ecdar 2.3.0-beta" style="height: 400px; float:right;" title="Screenshot of Ecdar 2.3.0-beta" "/>
