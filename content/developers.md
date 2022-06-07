@@ -11,6 +11,7 @@ Developers that have contributed to the project over time
 
   * [Florian Lorber](https://github.com/florber)
   * [Ulrik Nyman](https://github.com/ulriknyman)
+  * [Martijn Angelo Goorden](https://github.com/magoorden)
   * [Niels Frederik Sinding Vistisen](https://github.com/Nielswps)
   * [Nicklas Hjortshøj Hugøy](https://github.com/NicklasHugoy)
   * [Sebastian Lund](https://github.com/seblund)
