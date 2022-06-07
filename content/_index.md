@@ -7,7 +7,7 @@ weight: 1
 showpagemeta: false
 ---
 
-<img src="/img/RefinementCheatFigure.png" alt="Figure showing the direction of implications following from S refining T" style="padding-left:20px; height: 220px; width:200px; float:right" title="Figure showing the direction of implications following from S refining T"/>
+<img src="/img/RefinementCheatFigure.png" alt="Figure showing the direction of implications following from S refining T" style="padding-left:20px; height: 220px; width:220px; float:right" title="Figure showing the direction of implications following from S refining T"/>
 
 Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
 
