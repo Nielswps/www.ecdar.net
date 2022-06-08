@@ -9,7 +9,7 @@ showpagemeta: false
 
 This page describes the Ecdar tool architecture as of spring 2022.
 
-<img src="/img/ArchOverview.png" alt="Overview of the Architecture" style="width:496; height:357;" />
+![Overview of the Architecture](/img/ArchOverview.png "Overview of the Architecture")
 
 The general design intent of having two verification engines, is that it should make the whole platform more reliable.
 
