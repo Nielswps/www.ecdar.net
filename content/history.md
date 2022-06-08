@@ -10,7 +10,7 @@ showpagemeta: false
 This is a short outline of the history of the development of the different parts of the Ecdar tools.
 
 ## Uppaal TIGA versions  - 2010 - 2013
-[The first version of the tool (0.6 to 0.10)](http://people.cs.aau.dk/~adavid/ecdar/) was based on the GUI and verification engine of [Uppaal TIGA](http://people.cs.aau.dk/~adavid/tiga/). Efter this it was released as part of Uppaal TIGA in version 0.17.
+The first version of the tool (0.6 to 0.10) (http://people.cs.aau.dk/~adavid/ecdar/ - defunct webpage) was based on the GUI and verification engine of [Uppaal TIGA](https://uppaal.org/features/#tiga). Efter this it was released as part of Uppaal TIGA in version 0.17.
 
 These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the [associated papers](http://ulrik.blog.aau.dk/ecdar/). Uses the .xml file format.
 
