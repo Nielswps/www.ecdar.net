@@ -9,7 +9,7 @@ showpagemeta: false
 
 ![Figure showing the direction of implications following from S refining T](/img/RefinementCheatFigure.png "Figure showing the direction of implications following from S refining T")
 
-Ecdar stands for <strong>E</strong>nvironment for <strong>C</strong>ompositional <strong>D</strong>esign and <strong>A</strong>nalysis of <strong>R</strong>eal Time Systems.
+Ecdar stands for **E**nvironment for **C**ompositional **D**esign and **A**nalysis of **R**eal Time Systems.
 
 ### Development 
 [The project is open source and hosted on GitHub](https://github.com/Ecdar/)
