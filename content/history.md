@@ -26,9 +26,7 @@ This version contained a <a href="http://people.cs.aau.dk/~ulrik/ecdar/StudentRe
 
 Simultaneously a tool for [visualizing zones](http://ulrik.blog.aau.dk/ecdar/ecdar-gui/) in three dimensions was developed, but not integrated with the other tools.
 
-## New headline
-
-## J-Ecdar - 2018
+## J-Ecdar - 2018
 
 Implementation of part of the TIOA theory in Java ([JECDAR 0.2.pdf](https://projekter.aau.dk/projekter/files/305757029/JECDAR_0.2.pdf)), also using the [UDBM library](https://github.com/UPPAALModelChecker/UDBM). Can input and output both .json and .xml file formats.
 
