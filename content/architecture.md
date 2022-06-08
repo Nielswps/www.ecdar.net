@@ -9,7 +9,7 @@ showpagemeta: false
 
 This page describes the Ecdar tool architecture as of spring 2022.
 
-<a href="../ArchOverview.png"><img class="alignnone wp-image-448" src="../ArchOverview.png" alt="" width="496" height="357" /></a>
+<img class="alignnone wp-image-448" src="/img/ArchOverview.png" alt="" width="496" height="357" />
 
 The general design intent of having two verification engines, is that it should make the whole platform more reliable.
 <h2><a href="https://github.com/Ecdar/j-Ecdar">j-Ecdar</a></h2>
