@@ -24,13 +24,17 @@ The [Ecdar GUI](http://ulrik.blog.aau.dk/ecdar/ecdar-gui/) is built on the [H-Up
 
 This version contained a <a href="http://people.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-VisualSimulator.pdf"> simulator</a> that linked with the old Ecdar TIGA based verification engine. And a <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?GandALF18.11">mutation based conformance testing tool</a>.
 
-Simultaneously a tool for <a href="http://ulrik.blog.aau.dk/ecdar/ecdar-gui/">visualizing zones</a> in three dimensions was developed, but not integrated with the other tools.
+Simultaneously a tool for [visualizing zones](http://ulrik.blog.aau.dk/ecdar/ecdar-gui/) in three dimensions was developed, but not integrated with the other tools.
 
-## j-Ecdar - 2018
-Implementation of part of the TIOA theory in Java (<a href="https://projekter.aau.dk/projekter/files/305757029/JECDAR_0.2.pdf">JECDAR 0.2.pdf</a>), also using the <a href="https://github.com/UPPAALModelChecker/UDBM">UDBM library</a>. Can input and output both .json and .xml file formats.
+## New headline
 
-As of the spring of 2021 this code is being worked on to make it feature complete and enable research based on this tool. (<a href="https://github.com/Ecdar/j-Ecdar">j-Ecdar on github</a>)
+## J-Ecdar - 2018
+
+Implementation of part of the TIOA theory in Java ([JECDAR 0.2.pdf](https://projekter.aau.dk/projekter/files/305757029/JECDAR_0.2.pdf)), also using the [UDBM library](https://github.com/UPPAALModelChecker/UDBM). Can input and output both .json and .xml file formats.
+
+As of the spring of 2021 this code is being worked on to make it feature complete and enable research based on this tool. ([j-Ecdar on github](https://github.com/Ecdar/j-Ecdar))
 
 ## Reveaal - 2020
-An implementation in Rust of the same features as the j-Ecdar engine. This code base also uses the <a href="https://github.com/UPPAALModelChecker/UDBM">UDBM library</a>. (<a href="https://github.com/Ecdar/Reveaal">Github link</a>) Based on the tool <a href="http://ulrik.blog.aau.dk/hmk/">HMKaal</a> that was also written in Rust, but used a different semantics of the models.
+
+An implementation in Rust of the same features as the j-Ecdar engine. This code base also uses the [UDBM library](https://github.com/UPPAALModelChecker/UDBM). Based on the tool [HMKaal](http://ulrik.blog.aau.dk/hmk/) that was also written in Rust, but used a different semantics of the models.
 
