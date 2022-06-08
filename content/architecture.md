@@ -9,7 +9,7 @@ showpagemeta: false
 
 This page describes the Ecdar tool architecture as of spring 2022.
 
-<img src="/img/ArchOverview.png" alt="" width="496" height="357" />
+<img src="/img/ArchOverview.png" alt="Overview of the Architecture" style="width:496; height:357;" />
 
 The general design intent of having two verification engines, is that it should make the whole platform more reliable.
 
@@ -22,23 +22,25 @@ The intention of j-Ecdar is to be a form of reference implementation, where no e
 
 ## [Reveaal](https://github.com/Ecdar/Reveaal)
 The intention of the Reveaal engine is to get a verification engine that is fast and parallelizable. Both over multiple cores, but also in the long run over multiple machines. The design goals for Reveaal is
-<ul>
- 	<li>Correctness</li>
- 	<li>Speed</li>
- 	<li>Remove dependency to UDBM</li>
-</ul>
-<h2><a href="https://github.com/Ecdar/Ecdar-GUI">Ecdar GUI</a></h2>
+
+ * Correctness
+ * Speed
+ * Remove dependency to UDBM
+
+## [Ecdar GUI](https://github.com/Ecdar/Ecdar-GUI)
+
 The intention of the GUI is be quick and usable to create and edit models. It should provide visual feedback on the verification.
-<ul>
- 	<li><a href="https://github.com/Ecdar/VisualZone">Visualization of zones</a></li>
- 	<li>Visualization of refinement relations</li>
- 	<li>Integration with revision control (Git)</li>
-</ul>
-<h2><a href="https://github.com/Ecdar/Ecdar-test">Test framework</a></h2>
+
+ *	[Visualization of zones](https://github.com/Ecdar/VisualZone)
+ *	Visualization of refinement relations
+ *	Integration with revision control (Git)
+ 
+## [Test framework](https://github.com/Ecdar/Ecdar-test)
 Automated test of the two engines. This component is vital in order allow to obtain the ability to actually refactor code in the engines with confidence.
-<ul>
- 	<li>Hand designed test cases with known results</li>
- 	<li>Conformance testing between the two engines</li>
- 	<li>Automated performance testing</li>
-</ul>
-&nbsp;
+
+ *	Hand designed test cases with known results
+ * Conformance testing between the two engines
+ *	Automated performance testing
+
+
+
