@@ -4,5 +4,7 @@ title = "ECDAR"
 
 theme = "hyde-hyde"
 
+enabledPostNavigation = false
 [params]
     authorimage = "../img/ecdar_in_circle.png"
+    postNavigation = false
