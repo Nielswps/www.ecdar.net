@@ -10,17 +10,17 @@ showpagemeta: false
 This is a short outline of the history of the development of the different parts of the Ecdar tools.
 
 ## Uppaal TIGA versions  - 2010 - 2013
-<a href="http://people.cs.aau.dk/~adavid/ecdar/">The first version of the tool (0.6 to 0.10)</a>  was based on the GUI and verification engine of <a href="http://people.cs.aau.dk/~adavid/tiga/">Uppaal TIGA</a>. Efter this it was released as part of Uppaal TIGA in version 0.17.
+[The first version of the tool (0.6 to 0.10)](http://people.cs.aau.dk/~adavid/ecdar/) was based on the GUI and verification engine of [Uppaal TIGA](http://people.cs.aau.dk/~adavid/tiga/). Efter this it was released as part of Uppaal TIGA in version 0.17.
 
-These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the <a href="http://ulrik.blog.aau.dk/ecdar/">associated papers</a>. Uses the .xml file format.
+These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the [associated papers](http://ulrik.blog.aau.dk/ecdar/). Uses the .xml file format.
 
 ## PyEcdar - 2013
-<a href="https://project.inria.fr/pyecdar/">PyEcdar</a> was a partial implementation of the TIOA semantics implemented by Louis-Marie Traonouez while at INRIA in France. As the name suggests this version was implemented in Python. It was built using the <a href="https://github.com/UPPAALModelChecker/UDBM">Uppaal Difference Bound Matrix (UDBM) library</a>, which is licensed under <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GPL 2.0</a>.  Uses the .xml file format.
+[PyEcdar](https://project.inria.fr/pyecdar/) was a partial implementation of the TIOA semantics implemented by Louis-Marie Traonouez while at INRIA in France. As the name suggests this version was implemented in Python. It was built using the [Uppaal Difference Bound Matrix (UDBM) library](https://github.com/UPPAALModelChecker/UDBM), which is licensed under [GPL 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  Uses the .xml file format.
 
- 	* In 2020 <a href="https://vbn.aau.dk/da/persons/139233">Florian Lorber</a> managed to make the source code compile, but on closer inspection certain important features that we assumed where implemented were not actually implemented in the code base.
+ * In 2020 [Florian Lorber](https://vbn.aau.dk/da/persons/139233) managed to make the source code compile, but on closer inspection certain important features that we assumed where implemented were not actually implemented in the code base.
 
 ## Ecdar GUI - 2017
-The <a href="http://ulrik.blog.aau.dk/ecdar/ecdar-gui/">Ecdar GUI</a> is built on the <a href="http://ulrik.blog.aau.dk/h-uppaal/">H-Uppaal</a> GUI that was developed the year before. This GUI is written in JavaFX and is the base for the current version of the <a href="https://github.com/Ecdar/Ecdar-GUI">Ecdar GUI (github)</a>. Uses the .json file format as introduced by H-Uppaal.
+The [Ecdar GUI](http://ulrik.blog.aau.dk/ecdar/ecdar-gui/) is built on the [H-Uppaal](http://ulrik.blog.aau.dk/h-uppaal/) GUI that was developed the year before. This GUI is written in JavaFX and is the base for the current version of the [Ecdar GUI (github)](https://github.com/Ecdar/Ecdar-GUI"). Uses the .json file format as introduced by H-Uppaal.
 
 This version contained a <a href="http://people.cs.aau.dk/~ulrik/ecdar/StudentReports/Ecdar-VisualSimulator.pdf"> simulator</a> that linked with the old Ecdar TIGA based verification engine. And a <a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?GandALF18.11">mutation based conformance testing tool</a>.
 
