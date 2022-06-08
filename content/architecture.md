@@ -9,16 +9,18 @@ showpagemeta: false
 
 This page describes the Ecdar tool architecture as of spring 2022.
 
-<img class="alignnone wp-image-448" src="/img/ArchOverview.png" alt="" width="496" height="357" />
+<img src="/img/ArchOverview.png" alt="" width="496" height="357" />
 
 The general design intent of having two verification engines, is that it should make the whole platform more reliable.
-<h2><a href="https://github.com/Ecdar/j-Ecdar">j-Ecdar</a></h2>
+
+## [j-Ecdar](https://github.com/Ecdar/j-Ecdar)
+
 The intention of j-Ecdar is to be a form of reference implementation, where no effort is put into optimizing the code for speed, but rather for
-<ul>
- 	<li>Correctness</li>
- 	<li>Readability</li>
-</ul>
-<h2><a href="https://github.com/Ecdar/Reveaal">Reveaal</a></h2>
+
+ *	Correctness
+ * Readability
+
+## [Reveaal](https://github.com/Ecdar/Reveaal)
 The intention of the Reveaal engine is to get a verification engine that is fast and parallelizable. Both over multiple cores, but also in the long run over multiple machines. The design goals for Reveaal is
 <ul>
  	<li>Correctness</li>
