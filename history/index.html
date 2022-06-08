@@ -10,10 +10,12 @@
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="History">
 <meta name=twitter:description content="This is a short outline of the history of the development of the different parts of the Ecdar tools.
-These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the associated papers.">
+Uppaal TIGA versions - 2010 - 2013 The first version of the tool (0.6 to 0.10)was based on the GUI and verification engine of Uppaal TIGA. Efter this it was released as part of Uppaal TIGA in version 0.17.
+These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics.">
 <meta property="og:title" content="History">
 <meta property="og:description" content="This is a short outline of the history of the development of the different parts of the Ecdar tools.
-These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the associated papers.">
+Uppaal TIGA versions - 2010 - 2013 The first version of the tool (0.6 to 0.10)was based on the GUI and verification engine of Uppaal TIGA. Efter this it was released as part of Uppaal TIGA in version 0.17.
+These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="/history/"><meta property="article:section" content>
 <meta property="article:published_time" content="2021-11-18T00:00:00+00:00">
@@ -85,10 +87,22 @@ ECDAR
 </header>
 <div class=post>
 <p>This is a short outline of the history of the development of the different parts of the Ecdar tools.</p>
+<h2 id=uppaal-tiga-versions---2010---2013>Uppaal TIGA versions  - 2010 - 2013</h2>
+<p>The first version of the tool (0.6 to 0.10)  was based on the GUI and verification engine of Uppaal TIGA. Efter this it was released as part of Uppaal TIGA in version 0.17.</p>
 <p>These versions all had the problem that the GUI was designed for the Uppaal TIGA semantics and thus did not match the Ecdar Timed Input/Output Automata (TIOA) semantics. This version also inherited most of the extension of Timed Automata (TA), including a lot of features that did not have defined semantics in the associated papers. Uses the .xml file format.</p>
+<h2 id=pyecdar---2013>PyEcdar - 2013</h2>
+<p>PyEcdar was a partial implementation of the TIOA semantics implemented by Louis-Marie Traonouez while at INRIA in France. As the name suggests this version was implemented in Python. It was built using the Uppaal Difference Bound Matrix (UDBM) library, which is licensed under GPL 2.0.  Uses the .xml file format.</p>
+<pre><code>* In 2020 &lt;a href=&quot;https://vbn.aau.dk/da/persons/139233&quot;&gt;Florian Lorber&lt;/a&gt; managed to make the source code compile, but on closer inspection certain important features that we assumed where implemented were not actually implemented in the code base.
+</code></pre>
+<h2 id=ecdar-gui---2017>Ecdar GUI - 2017</h2>
+<p>The Ecdar GUI is built on the H-Uppaal GUI that was developed the year before. This GUI is written in JavaFX and is the base for the current version of the Ecdar GUI (github). Uses the .json file format as introduced by H-Uppaal.</p>
 <p>This version contained a simulator that linked with the old Ecdar TIGA based verification engine. And a mutation based conformance testing tool.</p>
 <p>Simultaneously a tool for visualizing zones in three dimensions was developed, but not integrated with the other tools.</p>
+<p>## j-Ecdar - 2018
+Implementation of part of the TIOA theory in Java (JECDAR 0.2.pdf), also using the UDBM library. Can input and output both .json and .xml file formats.</p>
 <p>As of the spring of 2021 this code is being worked on to make it feature complete and enable research based on this tool. (j-Ecdar on github)</p>
+<h2 id=reveaal---2020>Reveaal - 2020</h2>
+<p>An implementation in Rust of the same features as the j-Ecdar engine. This code base also uses the UDBM library. (Github link) Based on the tool HMKaal that was also written in Rust, but used a different semantics of the models.</p>
 </div>
 </article>
 </div>
