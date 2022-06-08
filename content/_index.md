@@ -26,4 +26,5 @@ A list of publications involving Ecdar can be found at [http://ulrik.blog.aau.dk
 
 ### Screenshot
 
-<img src="/img/EcdarScreenshot4split.png" alt="Screenshot of Ecdar 2.3.0-beta" style="height: 400px; float:right;" title="Screenshot of Ecdar 2.3.0-beta" "/>
+![Screenshot of Ecdar 2.3.0-beta](/img/EcdarScreenshot4split.png "Screenshot of Ecdar 2.3.0-beta")
+
