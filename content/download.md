@@ -19,7 +19,7 @@ Newest version:
 
 Old versions:
 
-[Ecdar-2.2.zip](https://github.com/Ecdar/ECDAR/releases/download/v2.3.0-beta/ecdar-2.2.zip) 2018-06-14
+[Ecdar-2.2.zip](https://github.com/Ecdar/ECDAR/releases/download/v2.2/Ecdar-2.2.zip) 2018-06-14
 
 * Version intended to work with the old Tiga-0.17 engine.
 
