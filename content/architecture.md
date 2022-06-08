@@ -21,7 +21,8 @@ The intention of j-Ecdar is to be a form of reference implementation, where no e
  * Readability
 
 ## [Reveaal](https://github.com/Ecdar/Reveaal)
-The intention of the Reveaal engine is to get a verification engine that is fast and parallelizable. Both over multiple cores, but also in the long run over multiple machines. The design goals for Reveaal is
+
+The intention of the Reveaal engine is to get a verification engine that is fast and parallelizable. Both over multiple cores, but also in the long run over multiple machines. The design goals for Reveaal are
 
  * Correctness
  * Speed
@@ -36,11 +37,11 @@ The intention of the GUI is be quick and usable to create and edit models. It sh
  *	Integration with revision control (Git)
  
 ## [Test framework](https://github.com/Ecdar/Ecdar-test)
+
 Automated test of the two engines. This component is vital in order allow to obtain the ability to actually refactor code in the engines with confidence.
 
  *	Hand designed test cases with known results
  * Conformance testing between the two engines
  *	Automated performance testing
-
 
 
