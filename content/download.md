@@ -7,10 +7,7 @@ weight: 40
 showpagemeta: false
 ---
 
-This page contains links to download versions of Ecdar.
-
-Newest version:
-
+Download the newest versions of Ecdar here:
 
 [Ecdar-2.3.1.zip](https://github.com/Ecdar/ECDAR/releases/download/v2.3.1/ecdar-2.3.1.zip) 2022-06-22
 
