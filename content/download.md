@@ -9,10 +9,10 @@ showpagemeta: false
 
 Download the newest versions of Ecdar here:
 
-[Ecdar-2.3.1.zip](https://github.com/Ecdar/ECDAR/releases/download/v2.3.1/ecdar-2.3.1.zip) 2022-06-22
+[Ecdar-2.3.1.zip](https://github.com/Ecdar/ECDAR/releases/download/v2.3.1/ecdar-2.3.1.zip) 2022-07-05
 
-* GUI bug fixes
-* Includes both verification engines 
+* Only contains the Reveaal engine
+* Includes updates to the UI
 
 [Old versions on github.com](https://github.com/Ecdar/ECDAR/releases/)
 
