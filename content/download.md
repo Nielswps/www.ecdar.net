@@ -8,7 +8,7 @@ showpagemeta: false
 ---
 
 Download the newest versions of Ecdar here:
-[Ecdar-2.3.4](https://github.com/Ecdar/ECDAR/releases/tag/v2.3.4) 2022-24-12
+[Ecdar-2.3.4](https://github.com/Ecdar/ECDAR/releases/tag/v2.3.4) 2022-12-24
 
 * This release provides platform specific distributions for Linux and Windows, which include the needed JRE. This relieves the requirement for correct local Java versions
 
